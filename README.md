@@ -31,17 +31,12 @@ Currently pursuing my **BCA at Techno India Hooghly Campus (MAKAUT, West Bengal)
 
 ---
 
-## 🌟 Featured Projects  
-- 🔹 **Rian Hungriness App** – A food supply app connecting restaurants with people in need.  
-- 🔹 **[Other Projects Coming Soon...]**  
 
----
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)  
-
+## 🔗 Connect with me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/rimjhimroy20)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com)
 ---
 
 ⭐️ *“Code is like poetry — simple, elegant, and powerful.”*
