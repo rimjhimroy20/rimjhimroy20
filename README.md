@@ -25,9 +25,7 @@ Currently pursuing my **BCA at Techno India Hooghly Campus (MAKAUT, West Bengal)
 
 ---
 
-## 📊 GitHub Stats  
-![Rimjhim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+https://github-readme-stats.vercel.app/api?username=rimjhimroy20&show_icons=true&theme=radical
 
 ---
 
