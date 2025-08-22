@@ -1,49 +1,47 @@
-# Hi there 👋, I'm Rimjhim Roy (Riddhi)
-### 🌸 BCA Student | Aspiring Developer | Tech Enthusiast  
+# 👋 Hi, I'm Rimjhim Roy  
 
-💻 Currently studying **BCA at Techno India Hooghly**  
-✨ I love **coding, designing, and helping people with tech**  
-🌱 Learning: **C, C++, Python, Web Development**  
-🎬 Fun fact: I enjoy **movies, fairy tales, and horror podcasts** 👻  
+🚀 **BCA Student | Tech Enthusiast | Aspiring Developer**  
 
----
-
-## 🔗 Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/rimjhimroy20)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com)
+I’m passionate about **coding, problem-solving, and building impactful projects**.  
+Currently pursuing my **BCA at Techno India Hooghly Campus (MAKAUT, West Bengal)**, I’m exploring the world of **C, C++, Python, Web Development, and DSA** to sharpen my skills.  
 
 ---
 
-## 🚀 Skills
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🧑‍💻 About Me  
+- 🎓 Studying **Bachelor of Computer Applications (BCA)**  
+- 💡 Interested in **Software Development, Web Design, and App Development**  
+- 🌱 Currently learning **DSA & Full Stack Web Development**  
+- 🛠️ Exploring **projects that make real-life impact**  
+- 🎯 Goal: To become a **Full-Stack Developer & Problem Solver**  
 
 ---
 
-## 📊 GitHub Stats
-![Riddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimjhimroy20&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimjhimroy20&layout=compact&theme=radical)
+## 🚀 Tech Stack & Tools  
+💻 **Languages & Frameworks**  
+`C` | `C++` | `Python` | `HTML` | `CSS` | `JavaScript`  
+
+⚙️ **Tools & Platforms**  
+`Git` | `GitHub` | `VS Code` | `Linux` | `MySQL`  
 
 ---
 
-## ✨ Fun Animation
-![Snake animation](https://github.com/rimjhimroy20/rimjhimroy20/blob/output/github-contribution-grid-snake.svg)
+## 📊 GitHub Stats  
+![Rimjhim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
 
-<!--
-**rimjhimroy20/rimjhimroy20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌟 Featured Projects  
+- 🔹 **Rian Hungriness App** – A food supply app connecting restaurants with people in need.  
+- 🔹 **[Other Projects Coming Soon...]**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)  
+
+---
+
+⭐️ *“Code is like poetry — simple, elegant, and powerful.”*
