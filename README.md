@@ -7,15 +7,9 @@
 
 <br/>
 
-<a href="https://github.com/rimjhimroy20">
-<img src="https://komarev.com/ghpvc/?username=rimjhimroy20&label=Profile%20Views&color=4F46E5&style=for-the-badge" alt="Profile Views"/>
-</a>
-<a href="https://github.com/rimjhimroy20?tab=followers">
-<img src="https://img.shields.io/github/followers/rimjhimroy20?label=Followers&style=for-the-badge&logo=github&color=2563EB" alt="Followers"/>
-</a>
-<a href="https://github.com/rimjhimroy20?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
-</a>
+<a href="https://github.com/rimjhimroy20"><img src="https://komarev.com/ghpvc/?username=rimjhimroy20&label=Profile%20Views&color=4F46E5&style=for-the-badge" alt="Profile Views"/></a>
+<a href="https://github.com/rimjhimroy20?tab=followers"><img src="https://img.shields.io/github/followers/rimjhimroy20?label=Followers&style=for-the-badge&logo=github&color=2563EB" alt="Followers"/></a>
+<a href="https://github.com/rimjhimroy20?tab=repositories"><img src="https://img.shields.io/badge/Explore%20My%20Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
 
 </div>
 
@@ -39,9 +33,7 @@
 
 </td>
 <td width="40%" align="center">
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding animation"/>
-
 </td>
 </tr>
 </table>
@@ -51,12 +43,10 @@
 ## ✨ What I'm Focused On
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/%F0%9F%A7%A0-DSA-4F46E5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/%F0%9F%8C%90-Full--Stack-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/%F0%9F%9A%80-Project%20Building-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/%F0%9F%8E%A8-UI%2FUX-6366F1?style=for-the-badge"/>
-
 </p>
 
 ---
@@ -64,19 +54,13 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js" /></p>
 
 ### 🌐 Web & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=react,nodejs" /></p>
 
 ### 🗄️ Database & Developer Tools
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux" /></p>
 
 ---
 
@@ -91,12 +75,9 @@ A Python-based alarm and time-management application.
 
 **Tech:** Python
 
-<a href="https://github.com/rimjhimroy20/Time-Master">
-<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/rimjhimroy20/Time-Master"><img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
-
 <td width="50%" valign="top">
 
 ### ♟️ Chess Master
@@ -104,13 +85,10 @@ An interactive programming project focused on a chess experience.
 
 **Tech:** Python
 
-<a href="https://github.com/rimjhimroy20/Chess-Master">
-<img src="https://img.shields.io/badge/View%20Project-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/rimjhimroy20/Chess-Master"><img src="https://img.shields.io/badge/View%20Project-4F46E5?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -119,12 +97,9 @@ A collection of C programming projects and practice programs.
 
 **Tech:** C
 
-<a href="https://github.com/rimjhimroy20/C_Projects">
-<img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/rimjhimroy20/C_Projects"><img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🎮 More Projects
@@ -151,10 +126,27 @@ New interactive and web-based projects are being built.
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Overview
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rimjhimroy20&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="95%" alt="GitHub Trophies"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rimjhimroy20&theme=default" width="96%" alt="GitHub profile activity"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rimjhimroy20&theme=default" height="180" alt="Repositories by language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rimjhimroy20&theme=default" height="180" alt="Most committed languages"/>
+</p>
+
+---
+
+## 🐍 Contribution Journey
+
+<p align="center">
+<img src="https://github.com/rimjhimroy20/rimjhimroy20/blob/output/github-contribution-grid-snake.svg" width="96%" alt="Animated contribution snake"/>
+</p>
+
+<p align="center">
+<em>My contributions are slowly turning into a little coding journey 🐍✨</em>
 </p>
 
 ---
@@ -162,7 +154,7 @@ New interactive and web-based projects are being built.
 ## 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rimjhimroy20&bg_color=ffffff00&color=4F46E5&line=2563EB&point=7C3AED&area=true&hide_border=true&custom_title=My%20Coding%20Journey" width="96%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rimjhimroy20&theme=github-compact&hide_border=true&area=true&custom_title=My%20Coding%20Journey" width="96%" alt="Contribution Activity Graph"/>
 </p>
 
 ---
@@ -170,15 +162,9 @@ New interactive and web-based projects are being built.
 ## 🌐 Let's Connect
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rimjhim-roy-a21050310">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:rimjhimroy2005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/rimjhimroy20">
-<img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/rimjhim-roy-a21050310"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:rimjhimroy2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/rimjhimroy20"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
