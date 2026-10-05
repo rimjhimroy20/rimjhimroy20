@@ -139,18 +139,6 @@ New interactive and web-based projects are being built.
 
 ---
 
-## 🐍 Contribution Journey
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/rimjhimroy20/rimjhimroy20/output/github-contribution-grid-snake.svg" width="96%" alt="Animated contribution snake"/>
-</p>
-
-<p align="center">
-<em>My contributions are slowly turning into a little coding journey 🐍✨</em>
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
