@@ -7,7 +7,6 @@
 
 <br/>
 
-<a href="https://github.com/rimjhimroy20"><img src="https://komarev.com/ghpvc/?username=rimjhimroy20&label=Profile%20Views&color=4F46E5&style=for-the-badge" alt="Profile Views"/></a>
 <a href="https://github.com/rimjhimroy20?tab=followers"><img src="https://img.shields.io/github/followers/rimjhimroy20?label=Followers&style=for-the-badge&logo=github&color=2563EB" alt="Followers"/></a>
 <a href="https://github.com/rimjhimroy20?tab=repositories"><img src="https://img.shields.io/badge/Explore%20My%20Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
 
