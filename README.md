@@ -14,6 +14,10 @@
 
 ---
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/rimjhimroy20/rimjhimroy20/main/assets/developer-terminal.svg" width="96%" alt="Animated developer terminal"/>
+</p>
+
 ## 👩‍💻 About Me
 
 <table>
