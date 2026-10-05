@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=850&color=4F46E5&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Rimjhim+Roy;BCA+Student+%40+Techno+India+Hooghly+Campus;Aspiring+Full-Stack+Developer;I+turn+ideas+into+working+projects+%E2%9C%A8;Learning%2C+building%2C+and+growing+every+day+%F0%9F%92%99" alt="Typing animation"/>
 
-<img src="https://raw.githubusercontent.com/rimjhimroy20/rimjhimroy20/main/assets/aurora-banner.svg" width="96%" alt="Animated aurora banner"/>
+<img src="https://raw.githubusercontent.com/rimjhimroy20/rimjhimroy20/main/assets/aurora-banner-v2.svg" width="96%" alt="Animated aurora banner"/>
 
 <br/>
 
