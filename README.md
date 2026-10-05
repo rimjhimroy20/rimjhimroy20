@@ -142,7 +142,7 @@ New interactive and web-based projects are being built.
 ## 🐍 Contribution Journey
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rimjhimroy20/rimjhimroy20/main/snake-full-grid.svg" width="96%" alt="Animated full-grid contribution snake"/>
+<img src="https://raw.githubusercontent.com/rimjhimroy20/rimjhimroy20/output/github-contribution-grid-snake.svg" width="96%" alt="Animated contribution snake"/>
 </p>
 
 <p align="center">
