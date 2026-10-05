@@ -8,15 +8,9 @@
   <filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
 </defs>
 <rect width="1200" height="180" rx="28" fill="#0B1020"/>
-<ellipse cx="180" cy="90" rx="190" ry="70" fill="#2563EB" opacity=".22" filter="url(#blur)">
-  <animate attributeName="cx" values="180;500;180" dur="7s" repeatCount="indefinite"/>
-</ellipse>
-<ellipse cx="600" cy="80" rx="220" ry="65" fill="#7C3AED" opacity=".20" filter="url(#blur)">
-  <animate attributeName="cx" values="600;850;600" dur="9s" repeatCount="indefinite"/>
-</ellipse>
-<ellipse cx="1010" cy="100" rx="180" ry="65" fill="#06B6D4" opacity=".18" filter="url(#blur)">
-  <animate attributeName="cx" values="1010;780;1010" dur="8s" repeatCount="indefinite"/>
-</ellipse>
+
+
+
 <text x="600" y="92" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="30" font-weight="700">Building • Learning • Creating</text>
 <text x="600" y="124" text-anchor="middle" fill="#B8C7FF" font-family="Arial, sans-serif" font-size="15">A little color, a little motion, and lots of code 💙</text>
 </svg>
