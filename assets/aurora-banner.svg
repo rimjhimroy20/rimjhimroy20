@@ -17,9 +17,6 @@
 <ellipse cx="1010" cy="100" rx="180" ry="65" fill="#06B6D4" opacity=".18" filter="url(#blur)">
   <animate attributeName="cx" values="1010;780;1010" dur="8s" repeatCount="indefinite"/>
 </ellipse>
-<path d="M0 120 C180 55 310 160 500 92 S820 25 1200 112" fill="none" stroke="url(#g)" stroke-width="3" opacity=".8">
-  <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 120 C180 55 310 160 500 92 S820 25 1200 112;M0 90 C180 150 310 35 500 115 S820 155 1200 70;M0 120 C180 55 310 160 500 92 S820 25 1200 112"/>
-</path>
 <text x="600" y="92" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="30" font-weight="700">Building • Learning • Creating</text>
 <text x="600" y="124" text-anchor="middle" fill="#B8C7FF" font-family="Arial, sans-serif" font-size="15">A little color, a little motion, and lots of code 💙</text>
 </svg>
