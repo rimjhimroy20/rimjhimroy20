@@ -139,14 +139,6 @@ New interactive and web-based projects are being built.
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rimjhimroy20&theme=github-compact&hide_border=true&area=true&custom_title=My%20Coding%20Journey" width="96%" alt="Contribution Activity Graph"/>
-</p>
-
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
